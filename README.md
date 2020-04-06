@@ -1,4 +1,5 @@
 # Plataforma 'Be The Hero' criado durante a Semana Omnistack 11 da RocketSeat.
+## Com o objetivo de usuários ajudarem ONG's na resolução de casos de animais que sofreram algum problema.
 
 ## Tecnologias utilizadas
 ### Backend: Node.Js + Sqlite(database)
