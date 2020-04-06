@@ -18,4 +18,4 @@
 
 # Demonstração do Aplicativo Mobile
 ### Visualização dos casos e interações com os aplicativos de WhatsApp e Email nativo da plataforma móvel.
-![Demonstrativo da area mobile](https://github.com/Matheuscruztj/Semana_Omnistack_11/blob/master/poc/aplicativo_mobile.gif)
+
