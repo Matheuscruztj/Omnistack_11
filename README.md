@@ -9,7 +9,7 @@
 ### Testes (unitários e de integração): Jest + Celebrate.
 
 # Demonstração da Área Web
-### 1 - Criação de cadastro.
+### 1 - Criação de cadastro (ao término é informado o ID da ONG para que ela possa fazer login).
 ### 2 - Login.
 ### 3 - Criação de casos
 ### 4 - Remoção dinâmica de um caso.
