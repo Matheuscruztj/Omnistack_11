@@ -2,7 +2,7 @@
 ## Com o objetivo de usuários ajudarem ONG's na resolução de casos de animais que sofreram algum problema.
 
 ## Tecnologias utilizadas
-### Backend: Node.Js + Sqlite(database)
+### Backend: Node.Js(API Rest) + Sqlite(database)
 ### Frontend: React Js
 ### Mobile: Expo (emulação no aparelho móvel) + React Native (criação do aplicativo)
 
